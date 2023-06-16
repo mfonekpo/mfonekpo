@@ -1,3 +1,4 @@
+![Modern Minimal Technology Background Banner](https://github.com/mfonekpo/mfonekpo/assets/58835748/190d70a3-ba8b-49e8-a717-75a076412508)
 
 
 # 💫 About Me:
