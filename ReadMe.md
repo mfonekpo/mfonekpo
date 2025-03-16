@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-Welcome! I'm Mfon, a passionate Data Analyst and Data Science enthusiast, I also have a keen interest in Data Engineering, with a deep interest in uncovering insights and solving complex problems through data-driven approaches. Equipped with a strong foundation in data analysis and a keen eye for detail, I thrive on extracting meaningful patterns and actionable recommendations from diverse datasets.
+Welcome! I'm Mfon, Data engineer with expertise in Python, SQL, and ETL pipeline development, including web scraping and data orchestration with tools like Prefect.Proven ability to optimize data workflows and ensure data integrity across SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
 
 
 ## 🌐 Socials:
