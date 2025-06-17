@@ -1,8 +1,9 @@
+![Modern Minimal Technology Background Banner1](https://github.com/mfonekpo/mfonekpo/assets/58835748/aa6e9dd1-22d3-4010-80b5-384d7b85e351)
 
 
 
 # 💫 About Me:
-Welcome! I'm Mfon, Data engineer with expertise in Python, SQL, and ETL pipeline development, including web scraping and data orchestration with tools like Prefect.
+Welcome! I'm Mfon, a Data engineer with expertise in Python, SQL, and ETL pipeline development, including web scraping and data orchestration with tools like Prefect.
 Proven ability to optimize data workflows and ensure data integrity across SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
 
 
