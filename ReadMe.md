@@ -3,8 +3,11 @@
 
 
 # 💫 About Me:
-Welcome! I'm Mfon, a Data engineer with expertise in Python, SQL, and ETL pipeline development, including web scraping and data orchestration with tools like Prefect.
-Proven ability to optimize data workflows and ensure data integrity across SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
+Welcome! I'm Mfon, a skilled Junior Data Engineer with proven expertise in Python, SQL, and robust ETL pipeline development.
+Successfully optimized data workflows, reducing data processing time by 40% and improving data acquisition speed
+by 50% through innovative web scraping and data orchestration solutions. Adept at ensuring data integrity across
+diverse database systems like PostgreSQL and MongoDB, consistently delivering high-quality, error-free data for
+downstream analysis..
 
 
 ## 🌐 Socials:
