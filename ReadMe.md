@@ -1,7 +1,3 @@
-![Modern Minimal Technology Background Banner1](https://github.com/mfonekpo/mfonekpo/assets/58835748/aa6e9dd1-22d3-4010-80b5-384d7b85e351)
-
-
-
 # 💫 About Me:
 Results-driven Data Engineer experience at designing and optimizing scalable ETL/ELT pipelines, cloud-native
 data infrastructure, and analytics workflows.
